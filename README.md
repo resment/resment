@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 📖 Currently learning how to use machine learning to serve my work
 - 🍖 Meat lover
 
-[![Resment's GitHub stats](https://github-readme-stats.vercel.app/api?username=resment)](https://github.com/anuraghazra/github-readme-stats)
+[![Resment's GitHub stats](https://github-readme-stats.vercel.app/api?username=resment&hide=stars,prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
